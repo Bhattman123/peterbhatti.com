@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Happy Birthday Pete! 🪐
+title: Peterbhatti.com! 🪐
 ---
 
 <header id="page-header">
