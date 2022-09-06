@@ -7,15 +7,13 @@ title: Peterbhatti.com! 🪐
   <h1>
 Peter Bhatti - English Language Teacher 🪐
   </h1>
-  <p>Get started:</p>
+  <p>Welcome to my page</p>
   <ul>
-    <li>Edit this page: <code>src/pages/index.md</code></li>
-    <li>Add or edit navigation: <code>src/data/navigation.json</code></li>
-    <li>Change colors and styles: <code>src/assets/styles/</code></li>
+    <li>I am an English Language teacher. Originally from Oxford in England, I now live in Veneto, Italy</li>
   </ul>
 
   <hr>
 
-  {% image "./src/assets/images/pete.jpeg", "Portrait of a Gentleman", "100%" %}
+  {% image "./src/assets/images/pete.jpeg", "Portrait of a Gentleman", "200%" %}
 
 </header>
